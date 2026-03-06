@@ -1,45 +1,8 @@
-```
- ╔══════════════════════════════════════════════════════════════════════╗
- ║  [■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]  ║
- ║  [■]                                                          [■]  ║
- ║  [■]    ██████╗ ██╗ █████╗ ███╗  ██╗ █████╗ ███████╗         [■]  ║
- ║  [■]    ██╔══██╗██║██╔══██╗████╗ ██║██╔══██╗██╔════╝         [■]  ║
- ║  [■]    ██║  ██║██║███████║██╔██╗██║███████║███████╗'         [■]  ║
- ║  [■]    ██║  ██║██║██╔══██║██║╚████║██╔══██║╚════██║         [■]  ║
- ║  [■]    ██████╔╝██║██║  ██║██║ ╚███║██║  ██║███████║         [■]  ║
- ║  [■]    ╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝╚═╝  ╚═╝╚══════╝         [■]  ║
- ║  [■]                                                          [■]  ║
- ║  [■]     ███████╗██████╗  █████╗  ██████╗███████╗            [■]  ║
- ║  [■]     ██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝            [■]  ║
- ║  [■]     ███████╗██████╔╝███████║██║     █████╗              [■]  ║
- ║  [■]     ╚════██║██╔═══╝ ██╔══██║██║     ██╔══╝              [■]  ║
- ║  [■]     ███████║██║     ██║  ██║╚██████╗███████╗            [■]  ║
- ║  [■]     ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝            [■]  ║
- ║  [■]                                                          [■]  ║
- ║  [■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]  ║
- ╚══════════════════════════════════════════════════════════════════════╝
-```
-
----
-
 <div align="center">
 
-```
- ┌─[■]──────────────────────────────────────────────────────[■]─┐
- │                                                               │
- │         🚀  ENTER  //  MINIFIG: yangerbanger163  🚀           │
- │                                                               │
- └─[■]──────────────────────────────────────────────────────[■]─┘
-```
+![Diana's Space Banner](https://raw.githubusercontent.com/dianayang77/dianayang77/main/dianas_space_banner.svg)
 
-```
-  ___     ___
- |[O]|   |[O]|       👩‍🚀  DIANA YANG  👩‍🚀
- |___|   |___|
-  | |─────| |        RANK  : COMMANDER
-  |_|     |_|        BASE  : EARTH SECTOR-1
-  [■]     [■]        MISSION : ACTIVE 🟢
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=800&color=E3F2FD&center=true&vCenter=true&width=600&lines=%5B■%5D+building+prediction+markets;%5B■%5D+engineering+datasets;%5B■%5D+designing+intentional+spaces;%5B■%5D+optimizing+for+risk;%5B■%5D+ALL+SYSTEMS+NOMINAL+🟢)](https://git.io/typing-svg)
 
 *Building the infrastructure for better decisions:*
 *prediction markets, datasets, and intentional spaces for humans.*
@@ -135,6 +98,26 @@ class DianaYang:
 ---
 
 ```
+ ┌─[■]─ MISSION STATS ─────────────────────────────────────[■]─┐
+```
+
+<div align="center">
+
+![Diana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dianayang77&show_icons=true&theme=github_dark&title_color=E3F2FD&icon_color=E3F2FD&text_color=ffffff&border_color=E3F2FD&border_radius=0&custom_title=MISSION+CONTROL+//+dianayang77)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dianayang77&layout=compact&theme=github_dark&title_color=E3F2FD&text_color=ffffff&border_color=E3F2FD&border_radius=0&custom_title=PAYLOAD+MANIFEST)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dianayang77&theme=github-dark-blue&border=1565C0&ring=D32F2F&fire=D32F2F&currStreakLabel=E3F2FD&dates=ffffff&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)
+
+</div>
+
+```
+ └─[■]────────────────────────────────────────────────────[■]─┘
+```
+
+---
+
+```
  ┌─[■]─ FLIGHT LOG ────────────────────────────────────────[■]─┐
 
   STARDATE ···· ENTRY
@@ -160,6 +143,8 @@ class DianaYang:
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=FF4B8B)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00CFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=39FF14)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dianayang77.dianayang77&left_color=black&right_color=E3F2FD&left_text=🧱+MINIFIGS+VISITED)
 
 ```
  [■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]
