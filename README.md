@@ -1,104 +1,134 @@
 <div align="center">
 
-![Diana's Space Banner](https://raw.githubusercontent.com/dianayang77/dianayang77/main/dianas_space_banner.svg)
+```
+██████╗ ██╗ █████╗ ███╗   ██╗ █████╗ ██╗   ██╗███████╗    ███████╗██████╗  █████╗  ██████╗███████╗
+██╔══██╗██║██╔══██╗████╗  ██║██╔══██╗╚██╗ ██╔╝██╔════╝    ██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝
+██║  ██║██║███████║██╔██╗ ██║███████║ ╚████╔╝ ███████╗    ███████╗██████╔╝███████║██║     █████╗
+██║  ██║██║██╔══██║██║╚██╗██║██╔══██║  ╚██╔╝  ╚════██║    ╚════██║██╔═══╝ ██╔══██║██║     ██╔══╝
+██████╔╝██║██║  ██║██║ ╚████║██║  ██║   ██║   ███████║    ███████║██║     ██║  ██║╚██████╗███████╗
+╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚══════╝    ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=800&color=E3F2FD&center=true&vCenter=true&width=600&lines=%5B■%5D+building+prediction+markets;%5B■%5D+engineering+datasets;%5B■%5D+designing+intentional+spaces;%5B■%5D+optimizing+for+risk;%5B■%5D+ALL+SYSTEMS+NOMINAL+🟢)](https://git.io/typing-svg)
-
-*Building the infrastructure for better decisions:*
-*prediction markets, datasets, and intentional spaces for humans.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2500&pause=800&color=E3F2FD&center=true&vCenter=true&width=700&lines=founder+%40+The+Locus+Network;building+prediction+markets+%2B+intentional+spaces;ECM+%7C+quant+%7C+capital+markets+%7C+iOS;ALL+SYSTEMS+NOMINAL+🟢)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ```
- ┌─[■]─ MISSION BRIEFING ──────────────────────────────────[■]─┐
-```
-
-```python
-# 🟥 🟨 🟦 🟧 ── MINIFIG MANIFEST ── 🟧 🟦 🟨 🟥
-
-class DianaYang:
-    callsign  = "yangerbanger163"
-    rank      = "Commander"
-    base      = "Earth-1"
-
-    objectives = [
-        "🔴  prediction markets",       # chart the unknown
-        "🟡  robust strategies",        # survive re-entry
-        "🔵  dataset engineering",      # fuel the mission
-        "🟠  human interface design",   # make it feel human
-        "🟣  risk optimization",        # don't blow up the ship
-    ]
-
-    def mission_status(self):
-        return "🟢 ALL SYSTEMS NOMINAL"
-```
-
-```
- └─[■]────────────────────────────────────────────────────[■]─┘
+┌─[🟥]──────────────────────────────────────────────────[BOOT SEQUENCE]─┐
+│                                                                         │
+│  $ whoami                                                               │
+│  > yangerbanger163                                                      │
+│                                                                         │
+│  $ cat identity.json                                                    │
+│  > {                                                                    │
+│      "name"     : "Diana Yang",                                         │
+│      "base"     : "New York City",                                      │
+│      "rank"     : "Founder",                                            │
+│      "company"  : "The Locus Network LLC",                              │
+│      "product"  : "Locus — iOS app",                                   │
+│      "bg"       : ["ECM", "quant finance", "capital markets", "iOS"],   │
+│      "origin"   : "family restaurant → Wall St → building my own"      │
+│    }                                                                    │
+│                                                                         │
+│  [ 🟢 ok ] identity loaded                                              │
+│  [ 🟢 ok ] objectives mounted                                           │
+│  [ 🟢 ok ] all systems nominal                                          │
+│                                                                         │
+└─[🟥]───────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ```
- ┌─[■]─ ACTIVE MISSIONS ───────────────────────────────────[■]─┐
-```
-
-```
-  🛰️  PREDICTION PIPELINES                        [ IN ORBIT ]
-
-  ┌──────────────────────────────────────────────────────────┐
-  │  [■][■][■][■][■][■][■][■][■][■][■][■][■][■][■][■][■]  │
-  │                                                          │
-  │  NLP/anomaly detection on SEC EDGAR public filings.      │
-  │  Sentiment regression · multi-class risk classification  │
-  │  · unsupervised anomaly detection across 10-K and        │
-  │  EDGAR filing metadata.                                  │
-  │                                                          │
-  │  PAYLOAD: Python · NLP · SEC EDGAR · scikit-learn        │
-  │  [■][■][■][■][■][■][■][■][■][■][■][■][■][■][■][■][■]  │
-  └──────────────────────────────────────────────────────────┘
-```
-
-```
- └─[■]────────────────────────────────────────────────────[■]─┘
-```
-
----
-
-```
- ┌─[■]─ SHIP COMPONENTS ───────────────────────────────────[■]─┐
-```
-
-```
-  🟥 PROPULSION  ── core languages
-     ├── 🔴  Python
-     ├── 🔵  TypeScript
-     ├── 🟡  JavaScript
-     ├── 🟠  Swift
-     └── 🟣  C++
-
-  🟦 NAVIGATION  ── frontend
-     ├── ⚪  React
-     └── 🟢  Node.js
-
-  🟨 INSTRUMENTS ── mission domains
-     ├── NLP & anomaly detection
-     ├── prediction markets
-     ├── risk modeling
-     ├── dataset engineering
-     └── human interface design
-```
-
-```
- └─[■]────────────────────────────────────────────────────[■]─┘
+┌─[🟨]──────────────────────────────────────────[ACTIVE MISSIONS]─┐
+│                                                                   │
+│  [■] LOCUS — iOS APP                          [ IN DEVELOPMENT ] │
+│  ────────────────────────────────────────────────────────────    │
+│  A prism for identity. Where single-dimension platforms          │
+│  flatten you, Locus refracts — surfaces the right dimension      │
+│  of you in the right context. Built in SwiftUI with a            │
+│  convex optimization aesthetic: 3D surface, rainbow              │
+│  gradients, L-corner optimum point design language.              │
+│                                                                   │
+│  STACK: Swift · SwiftUI · iOS · The Locus Network LLC            │
+│  STATUS: [🟨🟨🟨🟨🟨🟨░░░░]  building                           │
+│                                                                   │
+│  [■] PREDICTION PIPELINES                     [ IN ORBIT ]       │
+│  ────────────────────────────────────────────────────────────    │
+│  NLP + anomaly detection on SEC EDGAR public filings.            │
+│  Sentiment regression · multi-class risk classification          │
+│  · unsupervised anomaly detection across 10-K filings.           │
+│                                                                   │
+│  STACK: Python · NLP · SEC EDGAR · scikit-learn                  │
+│  STATUS: [🟥🟥🟥🟥🟥🟥░░░░]  signal detected                    │
+│                                                                   │
+└─[🟨]─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ```
- ┌─[■]─ MISSION STATS ─────────────────────────────────────[■]─┐
+┌─[🟦]──────────────────────────────────────────[SHIP MANIFEST]─┐
+│                                                                  │
+│  $ ls -la stack/                                                 │
+│                                                                  │
+│  PROPULSION ── languages                                         │
+│  ├── 🔴  Python          [████████████░░]  primary              │
+│  ├── 🟠  Swift           [█████████░░░░░]  iOS                  │
+│  ├── 🔵  TypeScript      [████████░░░░░░]  frontend             │
+│  ├── 🟡  JavaScript      [███████░░░░░░░]  web                  │
+│  └── 🟣  C++             [█████░░░░░░░░░]  systems              │
+│                                                                  │
+│  NAVIGATION ── frameworks                                        │
+│  ├── ⚪  React           web interfaces                          │
+│  ├── 🟢  SwiftUI         iOS / Locus                             │
+│  └── 🟤  Node.js         backend                                 │
+│                                                                  │
+│  INSTRUMENTS ── domains                                          │
+│  ├── 📈  ECM + capital markets                                   │
+│  ├── 📐  quantitative finance (Black-Litterman, Kyle model)      │
+│  ├── 🔍  NLP + anomaly detection                                 │
+│  ├── 🎯  prediction markets + risk optimization                  │
+│  └── 📱  iOS + human interface design                            │
+│                                                                  │
+└─[🟦]────────────────────────────────────────────────────────────┘
+```
+
+---
+
+```
+┌─[🟧]──────────────────────────────────────────[COMMS TERMINAL]─┐
+│                                                                   │
+│  $ ./cheerleader --subject "diana yang"                           │
+│                                                                   │
+│  cheerleader.agent  >  Diana is a founder and builder with a     │
+│                        rare combination: she understands quant   │
+│                        finance from the inside (ECM, capital     │
+│                        markets) and can ship iOS apps. Locus     │
+│                        is her primary mission — a new kind of    │
+│                        identity platform with serious design     │
+│                        conviction.                               │
+│                                                                   │
+│  you               >  what's her background before tech?         │
+│                                                                   │
+│  cheerleader.agent  >  She ran her family's restaurant from      │
+│                        age 12 — that's where the operational     │
+│                        grit comes from. Context-switching        │
+│                        across domains isn't a skill she          │
+│                        learned. It's just how she's wired.       │
+│                                                                   │
+│  [ → ]  open a hail frequency:                                   │
+│         github.com/dianayang77                                    │
+│                                                                   │
+└─[🟧]─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+```
+┌─[🟣]──────────────────────────────────────────[MISSION STATS]─┐
 ```
 
 <div align="center">
@@ -112,24 +142,26 @@ class DianaYang:
 </div>
 
 ```
- └─[■]────────────────────────────────────────────────────[■]─┘
+└─[🟣]────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ```
- ┌─[■]─ FLIGHT LOG ────────────────────────────────────────[■]─┐
-
-  STARDATE ···· ENTRY
-  ──────────────────────────────────────────────────────────
-  [🟥🟥🟥🟥🟥🟥░░]  prediction infrastructure on EDGAR
-  [🟦🟦🟦🟦🟦░░░░]  interfaces for hard decisions
-  [🟨🟨🟨🟨░░░░░░]  stress-testing strategies at the edge
-  [🟧🟧🟧░░░░░░░░]  turning uncertainty into structure
-  ──────────────────────────────────────────────────────────
-  > next launch: TBD
-
- └─[■]────────────────────────────────────────────────────[■]─┘
+┌─[🟢]──────────────────────────────────────────[FLIGHT LOG]─┐
+│                                                              │
+│  SYSTEM          PROGRESS           STATUS                   │
+│  ──────────────────────────────────────────────────────     │
+│  Locus iOS       [🟠🟠🟠🟠🟠🟠░░░░]  building in SwiftUI   │
+│  predictions     [🔴🔴🔴🔴🔴🔴░░░░]  signal on EDGAR        │
+│  fundraising     [🟡🟡🟡🟡░░░░░░░░]  investor outreach      │
+│  datasets        [🔵🔵🔵🔵🔵░░░░░░]  engineering            │
+│  risk models     [🟣🟣🟣░░░░░░░░░░]  stress testing         │
+│  ──────────────────────────────────────────────────────     │
+│  > next launch: TBD                                          │
+│  > uptime: NOMINAL                                           │
+│                                                              │
+└─[🟢]────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -147,9 +179,9 @@ class DianaYang:
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dianayang77.dianayang77&left_color=black&right_color=E3F2FD&left_text=🧱+MINIFIGS+VISITED)
 
 ```
- [■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]
-       🟥 🟨 🟦  DIANA'S SPACE  //  END TRANSMISSION  🟦 🟨 🟥
- [■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]
+[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]
+   🟥 🟨 🟦  DIANA'S SPACE  //  dianayang77  //  END TRANSMISSION
+[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]─[■]
 ```
 
 </div>
